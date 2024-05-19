@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Abdessami Guebli from Algeria, Data Science and Artificial Intelligence Student <br>- 🔭 I’m trynna start working as freelancer this year<br>- 📚 I'm currently learning AI at the  university of Constantine 2 <br>- ⚡ In my free time I play games and CTFs</p>
+<p align="left">I'm Abdessami Guebli from Algeria, Data Science and Artificial Intelligence Student <br>- 🔭 I’m tryna start working as freelancer this year<br>- 📚 I'm currently learning AI at the  university of Constantine 2 <br>- ⚡ In my free time I play games and CTFs</p>
 
 ###
 
@@ -124,7 +124,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ab2gbl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ab2gbl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ab2gbl&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ab2gbl&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
