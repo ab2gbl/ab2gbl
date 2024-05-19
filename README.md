@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="" src="./pics/head.gif"  />
+  <img width="100%" alt="horizontal aqua line" src="./pics/head.gif"  />
 </div>
 
 ###
