@@ -131,6 +131,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ab2gbl/ab2gbl/output/snake.svg" alt="Snake animation" />
+<img src="./assets/snake.svg" alt="Snake animation" />
 
 ###
