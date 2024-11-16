@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Abdessami Guebli from Algeria, Data Science and Artificial Intelligence Student <br>- 🔭 I’m tryna start working as freelancer this year<br>- 📚 I'm currently learning AI at the  university of Constantine 2 <br>- ⚡ In my free time I play games and CTFs</p>
+<p align="left">I'm Abdessami Guebli from Algeria / Bouira, Data Science and Artificial Intelligence Student <br>- 🔭 I’m tryna start working as freelancer this year<br>- 📚 I'm currently learning AI at the  university of Constantine 2 <br>- ⚡ In my free time I play games and CTFs</p>
 
 ###
 
