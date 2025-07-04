@@ -20,7 +20,11 @@
 
 ###
 
-<p align="left">I'm Abdessami Guebli from Algeria / Bouira, Data Science and Artificial Intelligence Student <br>- 🔭 I’m tryna start working as freelancer this year<br>- 📚 I'm currently learning AI at the  university of Constantine 2 <br>- ⚡ In my free time I play games and CTFs</p>
+<p align="left">I'm Ayoub Guebli from Algeria / Bouira, a Data Science and Artificial Intelligence developer.
+<br>- 🎓 Master's graduate in Data Science and AI.
+<br>- 🎓 Bachelor's in Software Engineering.
+<br>- 💻 Experienced Fullstack Developer, actively **seeking new opportunities**.
+<br>- 🚀 **Open to work** and ready to contribute to innovative projects.</p>
 
 ###
 
@@ -33,6 +37,9 @@
   </a>
   <a href="https://web.facebook.com/profile.php?id=100009441059669" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://ab2gbl-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=About.me&label=&color=E6517D&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
 </div>
 
