@@ -139,10 +139,8 @@
 ###
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ab2gbl/ab2gbl/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ab2gbl/ab2gbl/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ab2gbl/ab2gbl/output/github-snake.svg" />
-</picture>
+<div class="github-snake-container">
+  <img src="https://github.com/ab2gbl/your-repository-name/blob/output/dist/github-snake.svg" alt="GitHub Snake Animation" />
+</div>
 
 ###
