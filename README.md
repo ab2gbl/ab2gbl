@@ -23,8 +23,8 @@
 <p align="left">I'm Ayoub Guebli from Algeria / Bouira, a Data Science and Artificial Intelligence developer.
 <br>- 🎓 Master's graduate in Data Science and AI.
 <br>- 🎓 Bachelor's in Software Engineering.
-<br>- 💻 Experienced Fullstack Developer, actively **seeking new opportunities**.
-<br>- 🚀 **Open to work** and ready to contribute to innovative projects.</p>
+<br>- 💻 Experienced Fullstack Developer, actively <b>seeking new opportunities</b>.
+<br>- 🚀 <b>Open to work</b> and ready to contribute to innovative projects.</p>
 
 ###
 
