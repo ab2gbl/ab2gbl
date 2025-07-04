@@ -140,7 +140,7 @@
 
 
 <div class="github-snake-container">
-  <img src="https://github.com/ab2gbl/ab2gbl/blob/output/github-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://github.com/ab2gbl/ab2gbl/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
 
 
